@@ -1,4 +1,4 @@
-a = input()
+a = input("enter the string")
 isValid = True
 stack = []
 for i in range(0, len(a)):
