@@ -1,4 +1,4 @@
-s = input()
+s = input("enter the hyphenated words")
 list = s.split('-')
 x = sorted(list)
 for i in range(0, len(x)-1):
